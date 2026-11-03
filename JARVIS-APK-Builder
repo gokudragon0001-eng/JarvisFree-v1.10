@@ -1,0 +1,1 @@
+Build Android APK from the existing JarvisFree project using GitHub Actions. Use Java 17 and Gradle. Generate a debug APK and upload it as a downloadable artifact.
